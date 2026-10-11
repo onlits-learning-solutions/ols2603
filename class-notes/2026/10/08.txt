@@ -1,0 +1,26 @@
+Program/Algorithm to prepare tea:
+1. Place a sauce pan on the stove.
+2. Add some milk and bring to boil.
+3. Add sugar
+4. Add tea
+5. Boil for sometime.
+6. Serve Hot.
+
+
+
+
+1. Critical Thinking
+2. Communication
+3. Creativity
+4. Collaboration
+
+Program to find the area of a rectangular room
+1. Measure the length and store it
+2. Measure the breadth and store it
+3. Find the area applying the formula a = l * b
+4. Store the area for future reference
+
+
+Arithmetic - Specific number - 2, 10, 45
+Algebra - Generic number - x, y, z, a, b, c
+
