@@ -1,26 +1,59 @@
-Program/Algorithm to prepare tea:
-1. Place a sauce pan on the stove.
-2. Add some milk and bring to boil.
-3. Add sugar
-4. Add tea
-5. Boil for sometime.
-6. Serve Hot.
+Programming Paradigms: Technique & principles for writing programs
+
+	- POP: Procedure Oriented Programming	-	1972 - C
+	- OOP: Object Oriented Programming	-	1980 - C++
+
+Program: A sequence of instructions to carry out a specific task.
+
+Program to make tea:
+	1. In a sauce pane add milk and water.
+	2. Ignite gas stove
+	3. Add tea leave once milk and water comes to boil.
+	4. Add ginger, sugar to taste.
+	5. Boil for some time.
+	6. Serve hot.
+
+Algorithm: A step by step procedure to solve a problem.
+
+Algorithm to add two integers:
+	1. Accept the first number.
+	2. Accept the second number.
+	3. Find the sum
+	4. Tell the sum
+
+
+Set theory
+1,2,3
+
+
+
+Algorithm: Read two integers and display their sum
+1. Start
+2. Read a, b
+3. c = a + b
+4. Print c
+5. Stop
+
+1. WAP to read length and breadth of a rectangle and find its area.
+
+Algorithm:
+1. Start
+2. Read l, b
+3. a = l * b
+4. Print a
+5. Stop
+
+2. WAP to read two integers and swap them.
+
+Software Engineering
+	1. Requirement Gathering & Analysis
+	2. Design
+	3. Coding
+	4. Testing
+	5. Deployment
+	6. Maintenance
 
 
 
 
-1. Critical Thinking
-2. Communication
-3. Creativity
-4. Collaboration
-
-Program to find the area of a rectangular room
-1. Measure the length and store it
-2. Measure the breadth and store it
-3. Find the area applying the formula a = l * b
-4. Store the area for future reference
-
-
-Arithmetic - Specific number - 2, 10, 45
-Algebra - Generic number - x, y, z, a, b, c
 

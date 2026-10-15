@@ -1,2 +1,26 @@
 Git	-	Distributed Version Control System
 GitHub	-	Repository Hosting Service
+
+
+Algorithm: To read two integers in variables a and b and swap their contents
+1. Start		
+2. Read a, b		scanf("%d%d", &a, &b);		a = input()	b = input()
+3. c = a			c = a;				        c = a
+4. a = b			a = b;				        a = b			
+5. b = c			b = c;				        b = c
+6. Print a, b		printf("%d%d", a, b);		print(a, b)
+7. Stop
+
+
+Tools to perform analysis:
+1. Algorithm
+2. Flowchart
+3. Pseudocode
+
+Tools needed by us to develop a program
+1. Wit - having a particular type of intelligence (Computational/Algorithmic Thinking)
+2. Stationary - Pen, Pencil, Paper, Ruler, Eraser etc.
+3. Computer
+4. Relevant Software (Text/Code editor, Compiler, Interpreter, IDE)
+
+IDE - Integrated Development Environment
