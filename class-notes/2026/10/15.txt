@@ -1,0 +1,10 @@
+1. Compose the code using a text/code editor
+2. Save the code in the relevant file type
+3. Compile your code and run it or simply run it through its interpreter.
+
+Language Translators.
+
+Native Machine Code
+
+Compiler - Compiles source code to native machine code or intermediate code (C)
+Interpreter - Translates source code statement by statement while executing (Python)
