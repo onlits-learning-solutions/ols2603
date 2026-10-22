@@ -1,0 +1,8 @@
+- Dictionary words - Keywords (32)
+- Naming words	   - Identifiers
+- Operators	   - Symbols
+
+
+Step involved in developing a program:
+1. Compose the source code.
+2. Save the source code in appropriate format (.c for C and .py for python)

@@ -8,3 +8,5 @@ Native Machine Code
 
 Compiler - Compiles source code to native machine code or intermediate code (C)
 Interpreter - Translates source code statement by statement while executing (Python)
+
+Jargon
