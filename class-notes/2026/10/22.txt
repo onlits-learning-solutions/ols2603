@@ -6,3 +6,11 @@
 Step involved in developing a program:
 1. Compose the source code.
 2. Save the source code in appropriate format (.c for C and .py for python)
+3. Translate the source code into machine code using appropriate translator.
+   (compiler for c and interpreter for python)
+
+GCC: GNU Compiler Collection
+
+MinGW: Minimalist GCC for Windows
+
+Input ---> Process ----> Output
