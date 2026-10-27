@@ -1,0 +1,38 @@
+Array
+
+Learn By Translation
+
+Paradigms
+	Procedure Oriented Programming - C, C++, Python, PHP, JS
+	Object Oriented Programming - Java, C++, Python, PHP, C#, JS
+
+POP:
+	Decision
+	Loop/Iteration
+	Array
+	String
+	Pointer/Reference
+	Function
+	Files
+
+OOP
+	Encapsulation
+	Abstraction
+	Polymorphism
+	Inheritance
+	Class
+	Object
+
+WAP to read ten integers and sort them in ascending order.
+
+5! = 5 * 4 * 3 * 2 *1 = 120
+
+Not a generalized solution
+
+
+Array is collection of similar elements.
+
+Array is also called a subscripted variable.
+
+int num[10];
+
