@@ -1,0 +1,42 @@
+- New features of C
+- Learn by translation
+
+Array
+Function
+Pointer
+Structure
+File Handling
+
+Function: Function is a self-contained block of code to carry out a specific task.
+
+Identifier: User-defined names of program elements.
+Keyword : Word have pre-defined meaning in the language.
+
+Two types of functions:
+	Library Functions
+	User-defined functions
+
+Modularization
+
+Module = 1 functional part
+
+
+Divide & Conquer (D&C)
+
+WAP to read an integer and find whether it is a prime number or not.
+
+A number which exactly has two factors is called a prime number.
+
+10: 1, 2, 5, 10
+
+3: 1, 3
+
+Large input
+
+Linear search	-	n	-	100000 sec
+Binary search	-	log n	-	30 sec
+
+Every C program is a C++ program.
+
+Pointer
+
