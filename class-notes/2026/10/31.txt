@@ -1,0 +1,30 @@
+Pointer: is a variable that stores an address.
+
+Memory Address: Hexadecimal number
+
+0-9, a, b, c, d, e, f
+
+16-digits
+
+Variable notations:
+	int a	=	declaration
+	a	=	value of a which is an integer value
+	&a	=	address of a
+
+Pointer notations:
+	int *p	=	declaration
+	p	=	value of p which is the address of an integer variable
+	*p	=	value of the address at which pointer p is pointing to
+	&p	=	address of p
+
+Design principles:
+------------------
+DRY: Don't Repeat Yourself
+KISS: Keep It Simple Stupid
+YAGNI: You Aren't Gonna Need It
+
+
+Traversing
+
+
+
